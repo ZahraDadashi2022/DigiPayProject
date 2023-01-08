@@ -1,1 +1,1 @@
-# DigiPayProject
+# WALLET PROJECT
